@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+var message = 'Welcome back!';
+console.log(message);
+var x = 10;
+var y = 20;
+var sum;
+var title = "Typescript";
+var isBeginner = true;
+var total = 0;
+var name = 'Jack';
+var sentence = "My name is " + name + "\nI am a beginner in Typescript";
+console.log(sentence);
