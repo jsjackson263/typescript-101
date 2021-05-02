@@ -1,0 +1,9 @@
+tutorial source:
+https://www.youtube.com/watch?v=WBPrJSw7yQA
+
+
+compile:
+tsc `ts file name` [--wait]
+
+run:
+node `js file name`
