@@ -1,0 +1,9 @@
+source:
+https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414#overview
+
+
+compile:
+tsc `ts file name` [--wait]
+
+run:
+node `js file name`
