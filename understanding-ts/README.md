@@ -11,6 +11,7 @@ https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414#ove
 
  * `ts file name [--wait]` compile
  * `js file name` run
+ * `ts --init` create tsconfig.json - indicator for ts that this project in which the file lies will be managed by ts.
 
  * `npm run build`   compile typescript to js
  * `npm run watch`   watch for changes and compile
